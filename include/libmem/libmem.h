@@ -70,7 +70,7 @@ extern "C" {
 
 #include <stdlib.h>
 #include <stdint.h>
-
+#include <optional>
 /* Primitive types */
 typedef void     lm_void_t;
 typedef enum {
